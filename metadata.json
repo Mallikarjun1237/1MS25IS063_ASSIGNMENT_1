@@ -1,0 +1,6 @@
+{
+  "name": "ArXiv Research Paper AI Agent",
+  "description": "Production-ready AI agent that queries arXiv papers and extracts methodologies, datasets, contributions, and comparative synthesis using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
